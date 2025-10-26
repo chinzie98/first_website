@@ -1,0 +1,7 @@
+How to manually push a git commit update
+
+
+git status
+git add file.name
+git commit -m "message"
+git push origin main
