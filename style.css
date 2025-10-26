@@ -61,3 +61,11 @@ button:hover {
   margin-top: 0.5rem;
   padding-left: 1.5rem;
 }
+
+footer {
+  text-align: center; /* centers text horizontally */
+  padding: 1rem;
+  background-color: #0078d7;
+  color: white;
+}
+
