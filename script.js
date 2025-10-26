@@ -1,5 +1,6 @@
 document.getElementById("budgetForm").addEventListener("submit", function(e) {
   e.preventDefault(); // prevent form submission
+    console.log("script.js loaded");
 
   // Get values from the form
   const income = parseFloat(document.getElementById("income").value);
